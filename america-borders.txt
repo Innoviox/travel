@@ -9,3 +9,31 @@ Montana, Idaho, Wyoming, North Dakota, South Dakota
 Wyoming, Utah, Idaho, Montana, South Dakota, Nebraska, Colorado
 Colorado, New Mexico, Arizona, Utah, Wyoming, Nebraska, Kansas, Oklahoma
 New Mexico, Arizona, Utah, Colorado, Oklahoma, Texas
+North Dakota, Montana, South Dakota, Minnesota
+South Dakota, Wyoming, Montana, North Dakota, Minnesota, Nebraska, Iowa
+Nebraska, Kansas, Colorado, Wyoming, South Dakota, Iowa, Missouri
+Kansas, Oklahoma, Colorado, Nebraska, Iowa, Missouri
+Oklahoma, New Mexico, Colorado, Kansas, Missouri, Arkansas, Texas
+Texas, New Mexico, Oklahoma, Arkansas, Louisiana
+Minnesota, North Dakota, South Dakota, Iowa, Wisconsin
+Iowa, South Dakota, Nebraska, Missouri, Illinois, Wisconsin, Minnesota
+Missouri, Arkansas, Oklahoma, Kansas, Nebraska, Iowa, Illinois, Kentucky, Tennessee
+Arkansas, Texas, Oklahoma, Missouri, Tennessee, Mississippi, Louisiana
+Louisiana, Texas, Arkansas, Mississippi
+Wisconsin, Minnesota, Iowa, Illinois, Michigan
+Illinois, Iowa, Wisconsin, Missouri, Kentucky, Indiana
+Kentucky, Missouri, Illinois, Indiana, Ohio, West Virginia, Virginia, Tennessee
+Tennessee, North Carolina, Georgia, Alabama, Mississippi, Arkansas, Missouri
+Mississippi, Louisiana, Arkansas, Tennessee, Alabama
+Alabama, Mississippi, Tennessee, Georgia, Florida
+Indiana, Michigan, Ohio, Kentucky, Illinois, Wisconsin
+Michigan, Indiana, Ohio, Wisconsin
+Ohio, Kentucky, Indiana, Michigan, Pennsylvania, West Virginia
+Maine, New Hampshire
+New Hampshire, Vermont, Massachusetts
+Vermont, New Hampshire, Massachusetts, New York
+Massachusetts, New Hampshire, Vermont, New York, Rhode Island, Connecticut
+Rhode Island, Massachusetts, Connecticut
+Connecticut, Rhode Island, Massachusetts, New York
+New Jersey, New York, Pennsylvania, Delaware
+Pennsylvania, New Jersey, New York, Maryland, West Virginia, Ohio

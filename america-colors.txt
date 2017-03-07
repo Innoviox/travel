@@ -9,3 +9,31 @@ Montana, red
 Wyoming, blue
 Colorado, green
 New Mexico, blue
+North Dakota, blue
+South Dakota, green
+Nebraska, yellow
+Kansas, red
+Oklahoma, yellow
+Texas, red
+Minnesota, yellow
+Iowa, red
+Missouri, blue
+Arkansas, green
+Louisiana, yellow
+Wisconsin, green
+Illinois, yellow
+Kentucky, green
+Tennessee, yellow
+Mississippi, red
+Alabama, blue
+Indiana, red
+Michigan, blue
+Ohio, yellow
+Maine, blue
+New Hampshire, red
+Vermont, yellow
+Massachusetts, greem
+Rhode Island, red
+Connecticut, yellow
+New Jersey, greem
+Pennsylvania, red
