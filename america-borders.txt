@@ -1,0 +1,11 @@
+Washington, Oregon, Idaho
+Oregon, Washington, Idaho, Nevada, California
+California, Oregon, Nevada, Arizona
+Nevada, California, Oregon, Idaho, Utah, Arizona
+Idaho, Nevada, Oregon, Washington, Montana, Wyoming, Utah
+Utah, Nevada, Idaho, Wyoming, Colorado, New Mexico, Arizona
+Arizona, California, Nevada, Utah, Colorado, New Mexico
+Montana, Idaho, Wyoming, North Dakota, South Dakota
+Wyoming, Utah, Idaho, Montana, South Dakota, Nebraska, Colorado
+Colorado, New Mexico, Arizona, Utah, Wyoming, Nebraska, Kansas, Oklahoma
+New Mexico, Arizona, Utah, Colorado, Oklahoma, Texas

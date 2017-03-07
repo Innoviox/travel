@@ -1,0 +1,11 @@
+Washington, green
+Oregon, red
+California, blue
+Nevada, green
+Idaho, yellow
+Utah, red
+Arizona, yellow
+Montana, red
+Wyoming, blue
+Colorado, green
+New Mexico, blue
