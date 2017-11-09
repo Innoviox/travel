@@ -72,8 +72,10 @@ class Card(parse.Piece):
 class EmptyCard(Card):
     def __init__(self, *args):
         super().__init__(*args)
-    def select(self, *event):pass
-    def _update(self):pass
+    def select(self, *event):
+        pass
+    def _update(self):
+        pass
 
 class Rack(tk.Frame):
     def __init__(self, root, x, y, dp, d, rack = []):
