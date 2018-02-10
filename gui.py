@@ -236,7 +236,7 @@ def gui(discardCards, bag, tiles):
     deck = d = Pile(root, 100, 100, False, "Deck", False, bag)
     rack = Rack(root, 0, 0, discardPile, deck, tiles)
     
-    img = tk.PhotoImage(file='america.gif')
+    img = tk.PhotoImage(file='resources/america.gif')
     _map = tk.Label(root, image=img)
     _map.img = img
     _map.place_configure(x=0, y=210)

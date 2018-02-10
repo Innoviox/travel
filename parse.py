@@ -12,8 +12,8 @@ def parseFile(file):
             _dict[key] = values
     return _dict
 
-_borders = parseFile("america-borders.txt")
-_colors = parseFile("america-colors.txt")
+_borders = parseFile("resources/america-borders.txt")
+_colors = parseFile("resources/america-colors.txt")
 _countries = list(_colors.keys())
 colors = 'blue', 'red', 'yellow', 'green'
 C = 'country'
