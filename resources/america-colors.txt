@@ -32,8 +32,8 @@ Ohio, yellow
 Maine, blue
 New Hampshire, red
 Vermont, yellow
-Massachusetts, greem
+Massachusetts, green
 Rhode Island, red
 Connecticut, yellow
-New Jersey, greem
+New Jersey, green
 Pennsylvania, red

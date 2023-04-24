@@ -14,6 +14,7 @@ def parseFile(file):
 
 _borders = parseFile("resources/america-borders.txt")
 _colors = parseFile("resources/america-colors.txt")
+_colors = {i: _colors[i][0] for i in _colors}
 _countries = list(_colors.keys())
 colors = 'blue', 'red', 'yellow', 'green'
 C = 'country'
@@ -44,7 +45,7 @@ def borders(c1, c2):
 
 def validPlane(c1, c2, plane):
     """Checks if it's a valid plane trip. All arguments must have the same color."""
-    return c1.color == plane.color == c2.color
+    return c1.color == plane.color and plane.color == c2.color
 
 def validCar(c1, c2, car):
     """Checks if c1 borders any country that c2 borders."""
@@ -54,7 +55,6 @@ def check(cards):
     """Checks a set of cards.
        If there are two cards (C -> C), they must a) have different names, and b) border each other.
        Otherwise, there are three cards (C -> T -> C), the countries must have different names, and then checks with a subfunction."""
-    print(cards)
     c1, c2 = cards[0], cards[-1]
     if any(c.type != C for c in (c1, c2)):
         return False
